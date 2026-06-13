@@ -1,0 +1,6 @@
+{
+  "name": "She Can Foundation Contact Portal",
+  "description": "Contact portal and admin dashboard for She Can Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
